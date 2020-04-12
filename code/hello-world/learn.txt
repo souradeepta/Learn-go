@@ -1,0 +1,6 @@
+to run your program:
+    go run <filename>
+to create an executable:
+    go build <filename>
+to create a binary file:
+    go install <filename>
