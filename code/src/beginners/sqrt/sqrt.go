@@ -1,3 +1,4 @@
+//using external functions
 package main
 
 import (
