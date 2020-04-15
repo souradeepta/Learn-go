@@ -14,6 +14,7 @@ func main() {
 	fmt.Scan(&y)
 
 	var sum int = x + y
+	var sub int = x - y
 
-	fmt.Println("Sum is: ", sum)
+	fmt.Println("Sum, Diff is: ", sum, sub)
 }
